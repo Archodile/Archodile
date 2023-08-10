@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Archodile
+- 👀 I’m interested in Database Development
+- 🌱 I’m currently learning GoLang
